@@ -1,2 +1,2 @@
-this is second file
-Conflict occurs
+Second File
+This has Conflicts
